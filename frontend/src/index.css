@@ -1,0 +1,25 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+body {
+  margin: 0;
+  background-color: #f9f5eb;
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+input:focus {
+  outline-color: #1C3879;
+}

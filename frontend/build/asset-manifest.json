@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd376d59.css",
+    "main.js": "/static/js/main.82f7943e.js",
+    "static/media/bannerImage.png": "/static/media/bannerImage.8d7cc55e775389187603.png",
+    "static/media/myImage.jpeg": "/static/media/myImage.46f0a222e3b2911665b1.jpeg",
+    "static/media/dishWashing.jpg": "/static/media/dishWashing.c3a3ff73e604accad1f2.jpg",
+    "static/media/babySitting.jpg": "/static/media/babySitting.8a713eb589833fd2563d.jpg",
+    "static/media/laundry.jpg": "/static/media/laundry.a78c46ed28ff9728067f.jpg",
+    "static/media/cook.jpg": "/static/media/cook.390fb99872fa9ddb19ee.jpg",
+    "static/media/userImage.png": "/static/media/userImage.5098297c24ed5b5f7874.png",
+    "static/media/cleaning.jpg": "/static/media/cleaning.fe8929176c17f2a151a4.jpg",
+    "static/media/kiran.jpg": "/static/media/kiran.4f951bb286ca72c93dab.jpg",
+    "static/media/kanika.jpg": "/static/media/kanika.4f4c0b9d15bf6440e52c.jpg",
+    "static/media/ayush.jpg": "/static/media/ayush.8439c08b88743d298ef3.jpg",
+    "static/media/logo.png": "/static/media/logo.9b388de0a4120aae0279.png",
+    "index.html": "/index.html",
+    "main.bd376d59.css.map": "/static/css/main.bd376d59.css.map",
+    "main.82f7943e.js.map": "/static/js/main.82f7943e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd376d59.css",
+    "static/js/main.82f7943e.js"
+  ]
+}
